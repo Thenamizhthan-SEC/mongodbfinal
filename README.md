@@ -1,8 +1,8 @@
 # Exp 8 CRUD Operations on Products Collection using MongoDB
 
-**Name:** KISHORE J
+**Name:** THENAMIZHTHAN V
 
-**Reg.no:** 21222524007
+**Reg.no:** 212225240175
 
 **Date:** 01/09/2026
 
